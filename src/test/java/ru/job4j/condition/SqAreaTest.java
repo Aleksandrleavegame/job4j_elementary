@@ -41,4 +41,5 @@ public class SqAreaTest {
         double out = SqArea.square(p, k);
         assertEquals(expected, out, 0.01);
     }
+
 }
