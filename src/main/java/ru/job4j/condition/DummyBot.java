@@ -19,7 +19,7 @@ public class DummyBot {
         System.out.println(rsl);
         rsl = DummyBot.answer("Пока.");
         System.out.println(rsl);
-        rsl = DummyBot.answer("5+5");
+        rsl = DummyBot.answer("5+2");
         System.out.println(rsl);
     }
 }
