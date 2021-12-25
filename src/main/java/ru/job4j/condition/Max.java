@@ -5,12 +5,13 @@ public class Max {
         return Math.max(left, right);
 
     }
+
     public static void main(String[] args) {
-        int result = Max.max(10,20);
+        int result = Max.max(10, 20);
         System.out.println(result);
-        result = Max.max(50,3);
+        result = Max.max(50, 3);
         System.out.println(result);
-        result = Max.max(77,77);
+        result = Max.max(77, 77);
         System.out.println(result);
     }
 }
