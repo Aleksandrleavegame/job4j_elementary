@@ -33,4 +33,14 @@ public class MaxTest {
         int expected = 77;
         Assert.assertEquals(result, expected);
     }
+
+    @Test
+    public void whenMax22to77then77() {
+        int left = 22;
+        int right = 77;
+        int result = Max.max(left, right);
+        int expected = 77;
+        Assert.assertEquals(result, expected);
+    }
+
 }

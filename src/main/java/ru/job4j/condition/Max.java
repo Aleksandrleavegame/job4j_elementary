@@ -11,7 +11,7 @@ public class Max {
         System.out.println(result);
         result = Max.max(50, 3);
         System.out.println(result);
-        result = Max.max(77, 77);
+        result = Max.max(44, 44);
         System.out.println(result);
     }
 }
