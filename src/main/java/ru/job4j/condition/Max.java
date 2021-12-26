@@ -10,7 +10,7 @@ public class Max {
         System.out.println(result);
         result = Max.max(50, 3);
         System.out.println(result);
-        result = Max.max(55, 55);
+        result = Max.max(11, 11);
         System.out.println(result);
     }
 }
